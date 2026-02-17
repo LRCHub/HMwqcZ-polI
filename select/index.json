@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋文～ラブレター～",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T01:34:59.247509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋文~ラブレター~",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_恋文~ラブレター~_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋文～ラブレター～ - Love Letter",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/02_恋文~ラブレター~_-_Love_Letter_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋文 ～ラブレター～",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_恋文_~ラブレター~_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋文～ラブレター～",
+      "artist": "GILLE",
+      "has_synced": true,
+      "path": "select/04_恋文~ラブレター~_GILLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋文～ラブレター～",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_恋文~ラブレター~_GReeeeN.txt"
+    }
+  ]
+}
